@@ -287,7 +287,7 @@ function HomePage() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>账户转账关系查询系统</h1>
+        <h1>steez search system</h1>
       </header>
       
       <main className="app-main">
